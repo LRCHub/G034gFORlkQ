@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Want Some More",
+  "base_artist": "フィナーナ 竜宮",
+  "createdAt": "2026-02-13T13:55:07.281951Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Want Some More",
+      "artist": "Nicki Minaj",
+      "has_synced": true,
+      "path": "select/01_Want_Some_More_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Want Some More",
+      "artist": "Nicki Minaj",
+      "has_synced": true,
+      "path": "select/02_Want_Some_More_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Want Some More",
+      "artist": "Beasts Of Mayhem",
+      "has_synced": true,
+      "path": "select/03_Want_Some_More_Beasts_Of_Mayhem.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Want Some More",
+      "artist": "Nicki Minaj",
+      "has_synced": true,
+      "path": "select/04_Want_Some_More_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Want Some More",
+      "artist": "Nicki Minaj",
+      "has_synced": true,
+      "path": "select/05_Want_Some_More_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Want Some More",
+      "artist": "Dan Auerbach",
+      "has_synced": true,
+      "path": "select/06_I_Want_Some_More_Dan_Auerbach.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Want Some More",
+      "artist": "Colin Blunstone",
+      "has_synced": true,
+      "path": "select/07_I_Want_Some_More_Colin_Blunstone.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "She Want Some More (feat. Ken Carson)",
+      "artist": "Internet Money feat. Lil Tecca & Ken Carson",
+      "has_synced": true,
+      "path": "select/08_She_Want_Some_More_(feat._Ken_Carson)_Internet_Money_feat._Lil_Tecca_&_Ken_Carson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "She Want Some More (Feat. Ken Carson & Lil Tecca) (5)",
+      "artist": "Internet Money feat. Ken Carson & Lil Tecca",
+      "has_synced": true,
+      "path": "select/09_She_Want_Some_More_(Feat._Ken_Carson_&_Lil_Tecca)_(5)_Internet_Money_feat._Ken_Carson_&_Lil_Tecca.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Want Some More",
+      "artist": "Shobee",
+      "has_synced": false,
+      "path": "select/10_Want_Some_More_Shobee.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Want Some More",
+      "artist": "Dan Auerbach",
+      "has_synced": true,
+      "path": "select/11_I_Want_Some_More_Dan_Auerbach.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "She Want Some More (feat. Ken Carson)",
+      "artist": "Internet Money",
+      "has_synced": true,
+      "path": "select/12_She_Want_Some_More_(feat._Ken_Carson)_Internet_Money.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "WANT SOME MORE!",
+      "artist": "Clover!",
+      "has_synced": true,
+      "path": "select/13_WANT_SOME_MORE!_Clover!.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Want Some More (feat. エリーラ ペンドラ, エナー・アールウェット, マリア マリオネット & Meloco Kyoran)",
+      "artist": "フィナーナ 竜宮",
+      "has_synced": false,
+      "path": "select/pl_01_Want_Some_More_(feat._エリーラ_ペンドラ,_エナー・アールウェット,_マリア_マリオネット_&_Meloco_Kyoran)_フィナーナ_竜宮.txt"
+    }
+  ]
+}
